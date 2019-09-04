@@ -25,8 +25,8 @@ Decriptions:
 ## Running rShell
 To run rShell, open a terminal and run the following commands:
 ```
-    1. Type "git clone https://github.com/cs100/assignment-1-spoopy-skeleton" into the terminal
-    2. Move into the repository directory ("cd assignment-1-spoopy-skeleton/src")
+    1. Type "git clone https://github.com/tedminkim/rshell" into the terminal
+    2. Move into the repository directory ("cd rshell/src")
     3. Create the output file ("g++ main.cpp rshell.cpp commands.cpp execute.cpp connector.cpp -std=c++11")
     4. Run the output file ("./a.out")
 ```
