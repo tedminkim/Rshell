@@ -5,7 +5,7 @@ Steven Tran (https://github.com/azenros),
 Ted Kim (https://github.com/tedminkim)
 
 ## Permanent Repo Link
-https://github.com/cs100/rshell
+https://github.com/tedminkim/rshell
 
 ## Introduction
 This project `rShell` is a prototype shell designed to emulate a terminal and scripted to take an input and run commands based on the input given.
