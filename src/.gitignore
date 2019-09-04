@@ -1,0 +1,11 @@
+AlwaysRunNext.h.gch
+Base.h.gch
+Command.h.gch
+Connector.h.gch
+Execute.h.gch
+FailRunNext.h.gch
+IgnoreRest.h.gch
+PassRunNext.h.gch
+rShell.h.gch
+makefile
+a.out
