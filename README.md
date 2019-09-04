@@ -1,4 +1,4 @@
-# CS100 Assignment 2: Fall 2018
+# R'Shell
 
 ## Authors:
 Steven Tran (https://github.com/azenros),
